@@ -1,0 +1,61 @@
+{
+"title":"BASIC INFORMATION",
+"detail":"Desirous of an IT Service Management role in a challenging workplace that welcomes innovative ideas and offers growth opportunities and positive environment for accomplishing projects."
+,
+"title1":"EDUCATION"
+,
+"university":
+[
+{"name":"JNTU University",
+ "place":"Hyderabad, Telangana",
+ "year":"2015",
+ "degree":"Bachelor's Degree in Computer Science"},
+ {"name":"application support analyst",
+ "year":"google certified analytics professional 2016"},
+ {"name":"IIBA Entry Certificate in Business Analysis (ECBA)",
+ "place":"sydney, Australia",
+ "year":"2017",
+ "degree":"JavaScript 3.2", 
+ "additional":"www.w3schools.com",
+ "other":"Web Design Concepts, PHP 7.5 & Problem Solving, google certified analytics professional 2018"}
+],
+
+ "title2":"PROFESSIONAL EXPERIENCE",
+ "employer":
+
+[
+{"position":"Part-Time Employee",
+ "name":"Wipro,",
+ "place":"sydney, Australia",
+ "year":"2018-Present",
+ "detail1":"diagnosing any hardware or software faults with these systems and will solve the issues either in person or over the phone."},
+{"position":"Graphic Designer Volunteer",
+ "name":"W3 Education",
+ "place":"Online",
+ "year":"2016-Present",
+ "detail2":"create visual concepts, by hand or using computer software, to communicate ideas that inspire, inform, or captivate consumers."}
+],
+"last" : "THALUKA",
+ "first": "Swarna latha",
+ "position": "Senior System Software Engineer",
+ "detail3" : "Develops information systems by studying operations,designing,developing and istalling software solutions;supports and develops software team",
+ "title3" : "PERSONALITY HIGHLIGHTS",
+ "list":
+[
+{"first1" : "Flexible",
+ "second" : "Resourceful",
+ "third" : "Ambitious",
+ "fourth" : "Enthusiastic",
+ "fifth": "Competitive",
+ "sixth":"Ready to face any challenge"}
+ ],
+ "contact":
+ [{"description" : "CONTACT DETAILS",
+ "street" : "K L reddy Nagar, Mallapur",
+ "city":"Hyderabad, Telangana",
+ "country":"India",
+ "email":"swarna******@gmail.com",
+ "website":"www.swarna.taluka@gmail.com",
+ "telephone":"+91-880-***-*180"}
+ ]
+}
